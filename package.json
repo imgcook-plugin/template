@@ -1,0 +1,19 @@
+{
+  "name": "plugin-template",
+  "version": "0.0.1",
+  "description": "plugin template",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/__test__.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgcook-plugin/template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imgcook-plugin/template/issues"
+  },
+  "homepage": "https://github.com/imgcook-plugin/template#readme"
+}
