@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/imgcook-plugin/template/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/imgcook-plugin/template#readme"
 }
